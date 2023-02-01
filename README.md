@@ -14,4 +14,8 @@ Vous trouvez long de toujours devoir calculer la règles des fonctions? Avec cet
  - Quadratique
  - Direct
 
-**Créé par willyrire#4201**
+## Requirements
+
+- Python 3.0
+- colored
+```pip install colored```
