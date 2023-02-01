@@ -38,7 +38,7 @@ toprint = f"""
 settprint = f"""
     Configurations Possible:
 
-    1) Exponetielle         4) Quadratique
+    1) Exponentielle         4) Quadratique
     2) Partielle            5) Direct
     3) Inverse              6) {lr}Quitter le Programme{w}
 """
